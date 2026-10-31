@@ -9,7 +9,7 @@
                 <div class="idea__about">
                   <h3 class="idea__about-title">${e.title}</h3>
                   <p class="idea__about-text">${e.text}</p>
-                  <a href="tours.html" class="idea__about-link">Find more <img src="./src/img/idea-section/arrow/arrow_right.svg" alt=""></a>
+                  <a href="tours.html" class="idea__about-link">Find more <img src="idea-section/arrow/arrow_right.svg" alt=""></a>
                 </div>
               </div>
             </div>
