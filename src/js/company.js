@@ -1,14 +1,14 @@
 const companyData = [
     {
-        img: '/company/company-img-woman.webp',
+        img: 'company/company-img-woman.webp',
         text: 'We are a team of passionate travel experts and explorers dedicated to creating unforgettable journeys across the globe. Our mission is to open up new horizons, offering you unique destinations with top-tier comfort, safety, and authentic local experiences. '
     },
     {
-        img: '/company/company-img-man.webp',
+        img: 'company/company-img-man.webp',
         text: 'We craft tailor-made travel itineraries, exclusive group tours, and luxury cruises carefully designed down to the last detail. From premium accommodations and expert local guides to seamless transfer logistics, we handle everything so you can simply enjoy the adventure. '
     },
     {
-        img: '/company/company-img-woman.webp',
+        img: 'company/company-img-woman.webp',
         text: 'Our clients are curious travelers, adventure seekers, and thrill-lovers who value comfort, time, and genuine emotions. Whether you are traveling solo, as a couple, or with family and friends, we design experiences that inspire and leave lifelong memories.'
     }
 ];
