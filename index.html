@@ -1,0 +1,499 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preload" href="/tours/cruises/oae-cruise.webp" as="image" type="image/webp">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+    rel="stylesheet">
+  <title>LUXURY-TRAVEL</title>
+</head>
+
+<body>
+  <div class="wrapper">
+    <header class="header" id="header">
+      <div class="header__container">
+        <a href="./index.html" class="header__logo">
+          <img src="/logo/logo-icon.svg" alt="LUXURY-TRAVEL">
+        </a>
+        <nav class="header__menu menu">
+          <ul class="menu__list">
+            <li class="menu__item">
+              <a href="./tours.html" class="menu__link">PRIVATE TOURS</a>
+            </li>
+            <li class="menu__item">
+              <a href="./tours.html" class="menu__link">GROUP TOURS</a>
+            </li>
+            <li class="menu__item">
+              <a href="./contact.html" class="menu__link">CONTACTS</a>
+            </li>
+          </ul>
+        </nav>
+        <div class="header__burger" role="button" aria-label="Toggle navigation menu" aria-expanded="false">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </header>
+    <main class="main">
+      <section class="hero" id="hero">
+        <video class="hero__video-bg" autoplay muted loop playsinline
+          poster="/public/tours/cruises/oae-cruise.webp"></video>>
+        <source src="./src/video-bg/malta.mp4" type="video/mp4">
+        </video>
+        <div class="hero__social-block">
+          <div class="hero__social">
+            <a class="hero__social-link" href="#">IG </a>
+            <a class="hero__social-link" href="#">FB</a>
+            <a class="hero__social-link" href="#">TW</a>
+          </div>
+        </div>
+        <div class="hero__container">
+          <!-- Сайдбар слева (счетчик и кнопки) -->
+          <div class="hero__sidebar">
+            <div class="hero__counter">
+              <span class="hero__current">01</span>
+              <span class="hero__slash">/</span>
+              <span class="hero__total">03</span>
+            </div>
+            <div class="hero__navigation">
+              <button class="hero__btn hero__btn-prev" type="button"><img
+                  src="./hero/swiper-arrow/left-arrow.svg" alt=""> PREV</button>
+              <button class="hero__btn hero__btn-next" type="button">NEXT <img class="right__arrow"
+                  src="./hero/swiper-arrow/left-arrow.svg" alt=""></button>
+            </div>
+          </div>
+
+          <!-- Карточка справа -->
+          <div class="hero__card">
+            <h1 class="hero__title"><br> <span></span></h1>
+            <p class="hero__text"></p>
+            <div class="hero__link-btn"><a href="./tours.html" class="hero__link tour-details-btn">book now</a></div>
+          </div>
+        </div>
+      </section>
+      <section class="company">
+        <div class="company__container">
+          <h2 class="company__title">A little <br> <span>About Our Company</span></h2>
+          <nav class="company__nav">
+            <ul class="company__nav-list">
+              <li class="company__nav-item">
+                <a href="#we" class="company__nav-link company__nav-link-we _active" aria-checked="true">Who
+                  <span>WE ARE?</span></a>
+              </li>
+              <li class="company__nav-item">
+                <a href="#what" class="company__nav-link company__nav-link-what">WHAT <span>DO WE DO</span></a>
+              </li>
+              <li class="company__nav-item">
+                <a href="#ho" class="company__nav-link company__nav-link-who">Who <span>are our clients?</span></a>
+              </li>
+            </ul>
+          </nav>
+          <div class="company__card" id="company__card-id">
+            <div class="company__card-block">
+              <img class="company__card-block-icon" src="/company/company-icon.svg" alt="">
+              <p class="company__card-block-text"></p>
+            </div>
+            <div class="company__card-image">
+              <img class="company__card-img" src="/company/company-img-woman.webp" alt="">
+            </div>
+          </div>
+          <div class="nearest__tours">
+            <h2 class="nearest__tours-title">UPCOMING <span>TOURS</span></h2>
+            <div class="nearest__tours-icons">
+              <img src="/tours/mexico.png" alt="">
+              <img src="/tours/india.png" alt="">
+              <img src="/tours/brazil.png" alt="">
+              <img src="/tours/mexico.png" alt="">
+              <img src="/tours/india.png" alt="">
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="tour">
+        <div class="tour__container">
+          <div class="tour__block">
+            <div class="tour__card card">
+              <div class="card__block">
+                <h3 class="card__name">HA LONG BAY</h3>
+                <img class="card__img" src="/tours/asia/Ha-Long-Bay-Vietnam.webp" alt="Ha Long Bay Vietnam">
+              </div>
+              <div class="tour__description description">
+                <div class="description__block upper">
+                  <h3 class="upper__name">HA LONG BAY</h3>
+                  <span class="upper__mini-text">A wonderful tour to a scenic island bay</span>
+                  <p class="upper__duration"><span>11</span>/10 - <span>17</span>/10</p>
+                </div>
+                <div class="description__block bottom">
+                  <p class="bottom__text">Explore emerald waters, iconic limestone islands, and peaceful coastal views
+                    crafted for an unforgettable travel experience.</p>
+                  <div class="bottom__price">
+                    <span class="bottom__for">per person</span>
+                    <span class="bottom__currency">1 850 <span>$</span></span>
+                  </div>
+                  <div class="bottom__btn">
+                    <a href="./contact.html#contact" class="bottom__link">BOOK NOW</a>
+                  </div>
+                  <div class="bottom__df">
+                    <span class="bottom__days"><img src="/tours/description-icon/date.svg" alt="">5
+                      Days</span>
+                    <span class="bottom__fly"><img src="/tours/description-icon/plane.svg" alt="">Flight</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="tour__card card">
+              <div class="card__block">
+                <h3 class="card__name">ROME</h3>
+                <img class="card__img" src="/tours/europe/rome-italy.webp" alt="rome italy">
+              </div>
+              <div class="tour__description description">
+                <div class="description__block upper">
+                  <h3 class="upper__name">ROME</h3>
+                  <span class="upper__mini-text">An unforgettable journey to the Eternal City</span>
+                  <p class="upper__duration"><span>11</span>/10 - <span>17</span>/10</p>
+                </div>
+                <div class="description__block bottom">
+                  <p class="bottom__text">Discover the majesty of the Colosseum, walk through historic streets, and
+                    enjoy authentic Italian gastronomy on an exclusive getaway.</p>
+                  <div class="bottom__price">
+                    <span class="bottom__for">per person</span>
+                    <span class="bottom__currency">2 100 <span>$</span></span>
+                  </div>
+                  <div class="bottom__btn">
+                    <a href="./contact.html#contact" class="bottom__link">BOOK NOW</a>
+                  </div>
+                  <div class="bottom__df">
+                    <span class="bottom__days"><img src="/tours/description-icon/date.svg" alt="">5
+                      Days</span>
+                    <span class="bottom__fly"><img src="/tours/description-icon/plane.svg" alt="">Flight</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="tour__card card">
+              <div class="card__block">
+                <h3 class="card__name">ANTARCTICA</h3>
+                <img class="card__img" src="/tours/antarctica/Kayaking-in-Antarctica.webp"
+                  alt="Kayaking in Antarctica">
+              </div>
+              <div class="tour__description description">
+                <div class="description__block upper">
+                  <h3 class="upper__name">ANTARCTICA</h3>
+                  <span class="upper__mini-text">An extraordinary expedition to the icy wilderness</span>
+                  <p class="upper__duration"><span>23</span>/09 - <span>28</span>/09</p>
+                </div>
+                <div class="description__block bottom">
+                  <p class="bottom__text">Experience the ultimate adventure: kayak among majestic icebergs, witness rare
+                    wildlife, and explore the pristine polar landscape of the white continent.</p>
+                  <div class="bottom__price">
+                    <span class="bottom__for">per person</span>
+                    <span class="bottom__currency">9 850<span>$</span></span>
+                  </div>
+                  <div class="bottom__btn">
+                    <a href="./contact.html#contact" class="bottom__link">BOOK NOW</a>
+                  </div>
+                  <div class="bottom__df">
+                    <span class="bottom__days"><img src="/tours/description-icon/date.svg" alt="">5
+                      Days</span>
+                    <span class="bottom__fly"><img src="/tours/description-icon/plane.svg" alt="">Flight</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="guides">
+        <div class="guides__container">
+          <div class="guides__block">
+            <div class="guides__words">
+              <h2 class="guides__title">OUR <span>GUIDES</span></h2>
+              <p class="guides__text">Our certified local experts and seasoned expedition leaders are dedicated to
+                making your journey safe, immersive, and truly unforgettable.</p>
+            </div>
+            <div class="guides__body">
+              <div class="guides__slider-swiper swiper">
+                <div class="guides__slider-wrapper swiper-wrapper">
+                  <div class="guides__slide swiper-slide ">
+                    <img src="/guides-section/natali.webp" alt="natali guide" class="guides__slide-img">
+                    <div class="guides__slide-about about">
+                      <div class="about__rate">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-grey.svg" alt="">
+                      </div>
+                      <span class="about__name">NATALIA</span>
+                      <span class="about__country">Vietnam, Ha Long Bay</span>
+                    </div>
+                  </div>
+                  <div class="guides__slide swiper-slide ">
+                    <img src="/guides-section/mary.webp" alt="mary guide" class="guides__slide-img">
+                    <div class="guides__slide-about about">
+                      <div class="about__rate">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                      </div>
+                      <span class="about__name">MARIA</span>
+                      <span class="about__country">Italy, Rome</span>
+                    </div>
+                  </div>
+                  <div class="guides__slide swiper-slide ">
+                    <img src="/guides-section/aleksandra.webp" alt="aleksandra guide"
+                      class="guides__slide-img">
+                    <div class="guides__slide-about about">
+                      <div class="about__rate">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-grey.svg" alt="">
+                        <img src="/guides-section/stars/star-grey.svg" alt="">
+                      </div>
+                      <span class="about__name">ALEXANDRA</span>
+                      <span class="about__country">Antarctica, Expedition</span>
+                    </div>
+                  </div>
+                  <div class="guides__slide swiper-slide ">
+                    <img src="/guides-section/natali.webp" alt="natali guide" class="guides__slide-img">
+                    <div class="guides__slide-about about">
+                      <div class="about__rate">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-grey.svg" alt="">
+                      </div>
+                      <span class="about__name">NATALIA</span>
+                      <span class="about__country">Vietnam, Ha Long Bay</span>
+                    </div>
+                  </div>
+                  <div class="guides__slide swiper-slide ">
+                    <img src="/guides-section/mary.webp" alt="mary guide" class="guides__slide-img">
+                    <div class="guides__slide-about about">
+                      <div class="about__rate">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                      </div>
+                      <span class="about__name">MARIA</span>
+                      <span class="about__country">Italy, Rome</span>
+                    </div>
+                  </div>
+                  <div class="guides__slide swiper-slide ">
+                    <img src="/guides-section/aleksandra.webp" alt="aleksandra guide"
+                      class="guides__slide-img">
+                    <div class="guides__slide-about about">
+                      <div class="about__rate">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-grey.svg" alt="">
+                        <img src="/guides-section/stars/star-grey.svg" alt="">
+                      </div>
+                      <span class="about__name">ALEXANDRA</span>
+                      <span class="about__country">Antarctica, Expedition</span>
+                    </div>
+                  </div>
+                  <div class="guides__slide swiper-slide ">
+                    <img src="/guides-section/natali.webp" alt="natali guide" class="guides__slide-img">
+                    <div class="guides__slide-about about">
+                      <div class="about__rate">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-grey.svg" alt="">
+                      </div>
+                      <span class="about__name">NATALIA</span>
+                      <span class="about__country">Vietnam, Ha Long Bay</span>
+                    </div>
+                  </div>
+                  <div class="guides__slide swiper-slide ">
+                    <img src="/guides-section/mary.webp" alt="mary guide" class="guides__slide-img">
+                    <div class="guides__slide-about about">
+                      <div class="about__rate">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                      </div>
+                      <span class="about__name">MARIA</span>
+                      <span class="about__country">Italy, Rome</span>
+                    </div>
+                  </div>
+                  <div class="guides__slide swiper-slide ">
+                    <img src="/guides-section/aleksandra.webp" alt="aleksandra guide"
+                      class="guides__slide-img">
+                    <div class="guides__slide-about about">
+                      <div class="about__rate">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-yellow.svg" alt="">
+                        <img src="/guides-section/stars/star-grey.svg" alt="">
+                        <img src="/guides-section/stars/star-grey.svg" alt="">
+                      </div>
+                      <span class="about__name">ALEXANDRA</span>
+                      <span class="about__country">Antarctica, Expedition</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-scrollbar"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="idea">
+        <div class="idea__container">
+          <h2 class="idea__title"><span>TRAVEL</span> IDEAS</h2>
+          <nav class="idea__nav">
+            <ul class="idea__list">
+              <li class="idea__item">
+                <a href="#ru" class="idea__link _active" data-category="usa">USA</a>
+              </li>
+              <li class="idea__item">
+                <a href="#eu" class="idea__link" data-category="europe">EUROPE</a>
+              </li>
+              <li class="idea__item">
+                <a href="#asia" class="idea__link" data-category="asia">ASIA</a>
+              </li>
+              <li class="idea__item">
+                <a href="#antarktida" class="idea__link" data-category="antarctica">ANTARCTICA</a>
+              </li>
+              <li class="idea__item">
+                <a href="#cruise" class="idea__link" data-category="cruises">CRUISES</a>
+              </li>
+            </ul>
+          </nav>
+          <div class="idea__body-cont" id="idea__body-cont">
+            <div class="idea__body">
+              <div class="idea__date">
+                <span class="idea__date-month">АВГУСТ</span>
+                <span class="idea__date-number">23</span>
+              </div>
+              <div class="idea__block">
+                <div class="idea__img"><img src="" alt="">
+                </div>
+                <div class="idea__about">
+                  <h3 class="idea__about-title"></h3>
+                  <p class="idea__about-text">
+                  </p>
+                  <a href="#learn-more" class="idea__about-link tour-details-btn">Find more <img
+                      src="/idea-section/arrow/arrow_right.svg" alt=""></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="want">
+            <p class="want__text">Want to find more tours?<a href="/tours.html" class="want__link"> Look here</a>
+            </p>
+          </div>
+        </div>
+      </section>
+      <section class="connection">
+        <div class="connection__container">
+          <div class="connection__block">
+            <p class="connection__text"><span>We design each custom itinerary</span> to carefully reveal the most
+              breathtaking highlights and hidden treasures of the region within a single week. We combine luxury stays,
+              transfers, fine dining, and landmarks. <span>We work with small groups</span> of up to 10 guests and
+              personally escort them.</p>
+            <img src="/connection-section/kompas.svg" alt="" class="connection__icon">
+            <p class="connection__text"><span>We carefully select each path</span> to guarantee an immersive and
+              effortless travel experience through iconic destinations. Enjoy five-star accommodations, VIP transport,
+              and exquisite cuisine. <span>We keep groups small</span> up to 10 guests to provide a truly personal
+              approach.</p>
+          </div>
+          <h2 class="connection__title">WE ARE ALWAYS HERE FOR YOU</h2>
+          <form action="" class="connection__form form" novalidate>
+            <div class="form__inputs">
+              <div class="form__error"><input type="text" id="connection-name" class="input__style"
+                  placeholder="Your Name" aria-placeholder="Your Name" name="Name" required></div>
+              <div class="form__error"><input type="tel" id="connection-tel" class="input__style"
+                  placeholder="Your Phone Number" aria-placeholder="Your Phone Number" name="Phone" required></div>
+              <div class="form__error"><input type="email" id="connection-email" class="input__style"
+                  placeholder="Your Email Address" aria-placeholder="Your Email Address" name="Email" required>
+              </div>
+            </div>
+            <button class="form__btn" type="submit"><span>Send</span></button>
+          </form>
+        </div>
+      </section>
+    </main>
+    <footer class="footer">
+      <div class="footer__container">
+        <div class="footer__box">
+          <div class="footer__block">
+            <div class="footer__card">
+              <h3 class="footer__title">Our Company</h3>
+              <ul class="footer__list">
+                <li class="footer__item">
+                  <a href="#" class="footer__link">Why Choose Us</a>
+                </li>
+                <li class="footer__item">
+                  <a href="#" class="footer__link">Our Team</a>
+                </li>
+                <li class="footer__item">
+                  <a href="#" class="footer__link">Photo Reports</a>
+                </li>
+                <li class="footer__item">
+                  <a href="#" class="footer__link">Documents & Licenses</a>
+                </li>
+              </ul>
+            </div>
+            <div class="footer__card">
+              <h3 class="footer__title">Our Services</h3>
+              <ul class="footer__list">
+                <li class="footer__item">
+                  <a href="./tours.html" class="footer__link">Select Tour</a>
+                </li>
+                <li class="footer__item">
+                  <a href="#" class="footer__link">Booking</a>
+                </li>
+                <li class="footer__item">
+                  <a href="#" class="footer__link">Payment</a>
+                </li>
+                <li class="footer__item">
+                  <a href="#" class="footer__link">Our Guarantee</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="footer__icon"><a href="" class="footer__icon-link"><img src="/logo/logo-icon.svg"
+                alt=""></a></div>
+          <div class="footer__card-contanct">
+            <h3 class="footer__title">Get in Touch</h3>
+            <ul class="footer__list">
+              <li class="footer__item">
+                <a href="https://www.google.com/maps/place/The+Rose+Room/@33.9948515,-118.4798732,20.25z/..."
+                  target="_blank" class="footer__link">Los Angeles, CA</a>
+              </li>
+              <li class="footer__item">
+                <a href="#" class="footer__link">+38 (123) 45-67-890</a>
+              </li>
+              <li class="footer__item">
+                <a href="#" class="footer__link">concierge@generation-travel.com</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <a href="#" class="footer__creator">Coded by Stanislav Aloshyn</a>
+      </div>
+    </footer>
+  </div>
+  <script type="module" src="./src/js/main.js"></script>
+</body>
+
+</html>

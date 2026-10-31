@@ -1,0 +1,10 @@
+<svg class="gold-icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Душ -->
+  <path d="M12 24V14C12 11.2386 14.2386 9 17 9C18.5 9 19.5 9.8 20 11" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M18 11.5L22 12.5" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Чаша ванны -->
+  <path d="M8 24H40V28C40 33.5228 35.5228 38 30 38H18C12.4772 38 8 33.5228 8 28V24Z" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M6 24H42" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Ножки ванны -->
+  <path d="M13 38L11 43M35 38L37 43" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
