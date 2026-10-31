@@ -2894,12 +2894,11 @@ width: 100%;
 		}
 }
 .error-inputmessage{
-	display: inline-block;
-	margin-top: 5px;
+	display: block;
 	color: red;
 	font-size: 12px;
-	margin-left: 20px;
-	text-align: left;
+	margin-top: 6px;
+	font-family: inherit;
 }
 @keyframes button-spin {
     0% {
