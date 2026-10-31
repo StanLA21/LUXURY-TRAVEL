@@ -77,9 +77,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/europe/rome-italy.webp',
+            main: 'tours/europe/rome-italy.webp',
             gallery: [
-                '/tours/europe/rome-italy.webp',
+                'tours/europe/rome-italy.webp',
                 'https://images.unsplash.com/photo-1552832230-c0197dd311b5?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1539037116277-4db20889f2d4?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1514890547357-a9ee288728e0?q=80&w=1000&auto=format&fit=crop',
@@ -122,7 +122,7 @@ const voyageData = [
         date: '10 – 17 NOVEMBER',
         duration: '8 DAYS / 7 NIGHTS',
         price: '$1,950',
-        img: '/tours/asia/Ha-Long-Bay-Vietnam.webp',
+        img: 'tours/asia/Ha-Long-Bay-Vietnam.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14876.131757825227!2d107.0435122!3d20.9101019!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x314a5796fbc4b257%3A0xbcc0e1de74f3fc58!2z3JHRg9GC3Ywg3KHQutCw0L3QsCwgVmhvbiBMb25nLCBRdcOgbmcgTmluaCwgVmlldG5hbQ!5e0!3m2!1sru!2sua!4v1792063000000!5m2!1sru!2sua',
         overview: 'Cruise through the emerald waters of Ha Long Bay, marvel at thousands of towering limestone islands topped with rainforests, and discover hidden caves and floating fishing villages.',
         guide: {
@@ -133,9 +133,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/asia/Ha-Long-Bay-Vietnam.webp',
+            main: 'tours/asia/Ha-Long-Bay-Vietnam.webp',
             gallery: [
-                '/tours/asia/Ha-Long-Bay-Vietnam.webp',
+                'tours/asia/Ha-Long-Bay-Vietnam.webp',
                 'https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=1000&auto=format&fit=crop',
@@ -178,7 +178,7 @@ const voyageData = [
         date: '05 – 15 DECEMBER',
         duration: '11 DAYS / 10 NIGHTS',
         price: '$5,400',
-        img: '/tours/antarctica/Antarctica-Safari.webp',
+        img: 'tours/antarctica/Antarctica-Safari.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15654321.442!2d-65.0!3d-75.0!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xb9e7e123456789!2z0JDQvdGC0LDQutC40LrKtNC40LosINCg0LXRgdC_0YPRgNC10L3QuA!5e0!3m2!1sru!2sua!4v1792064000000!5m2!1sru!2sua',
         overview: 'Embark on an ultimate expedition to the White Continent. Witness majestic glaciers, towering icebergs, and incredible colonies of penguins and whales in their pristine natural habitat.',
         guide: {
@@ -189,9 +189,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/antarctica/Antarctica-Safari.webp',
+            main: 'tours/antarctica/Antarctica-Safari.webp',
             gallery: [
-                '/tours/antarctica/Antarctica-Safari.webp',
+                'tours/antarctica/Antarctica-Safari.webp',
                 'https://images.unsplash.com/photo-1517520287167-4bbf64a00d66?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1517520287167-4bbf64a00d66?q=80&w=1000&auto=format&fit=crop',
@@ -234,7 +234,7 @@ const voyageData = [
         date: '10 – 17 JULY',
         duration: '8 DAYS / 7 NIGHTS',
         price: '$2,100',
-        img: '/tours/usa/sequoia-national-park.webp',
+        img: 'tours/usa/sequoia-national-park.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.835434509374!2d-118.5657868!3d36.5658601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80bf07045279bf%3A0xf67a9a6797bdfae4!2sGiant%20Sequoia%20National%20Monument!5e0!3m2!1sru!2sua!4v1792065000000!5m2!1sru!2sua',
         overview: 'Journey through majestic forests of earth’s largest living trees. Experience breathtaking mountain trails, crystal-clear alpine rivers, and starry nights in the heart of California’s legendary wilderness.',
         guide: {
@@ -245,9 +245,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/usa/sequoia-national-park.webp',
+            main: 'tours/usa/sequoia-national-park.webp',
             gallery: [
-                '/tours/usa/sequoia-national-park.webp',
+                'tours/usa/sequoia-national-park.webp',
                 'https://images.unsplash.com/photo-1542224566-6e85f2e6772f?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1542224566-6e85f2e6772f?q=80&w=1000&auto=format&fit=crop',
@@ -290,7 +290,7 @@ const voyageData = [
         date: '05 – 12 AUGUST',
         duration: '8 DAYS / 7 NIGHTS',
         price: '$1,950',
-        img: '/tours/usa/niagara-falls.webp',
+        img: 'tours/usa/niagara-falls.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2915.123456789!2d-79.0377!3d43.0896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d34456789abcdef%3A0x123456789abcdef!2sNiagara%20Falls!5e0!3m2!1sru!2sua!4v1792066000000!5m2!1sru!2sua',
         overview: 'Experience the thunderous roar and breathtaking beauty of Niagara Falls. Take boat tours right into the mist, explore dramatic gorge trails, and enjoy spectacular nightly illuminations.',
         guide: {
@@ -301,9 +301,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/usa/niagara-falls.webp',
+            main: 'tours/usa/niagara-falls.webp',
             gallery: [
-                '/tours/usa/niagara-falls.webp',
+                'tours/usa/niagara-falls.webp',
                 'https://images.unsplash.com/photo-1533105079780-92b9be482077?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1489447068241-b3490214e879?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1533105079780-92b9be482077?q=80&w=1000&auto=format&fit=crop',
@@ -346,7 +346,7 @@ const voyageData = [
         date: '15 – 22 SEPTEMBER',
         duration: '8 DAYS / 7 NIGHTS',
         price: '$2,400',
-        img: '/tours/europe/britan.webp',
+        img: 'tours/europe/britan.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19844.75624794248!2d-0.1277583!3d51.5073509!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604c38c8cd1d9%3A0xedd165797708516e!2sLondon%2C%20UK!5e0!3m2!1sru!2sua!4v1792067000000!5m2!1sru!2sua',
         overview: 'Immerse yourself in the royal history and modern elegance of London. Discover iconic landmarks, world-class museums, majestic palaces, and the timeless charm of British culture.',
         guide: {
@@ -357,9 +357,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/europe/britan.webp',
+            main: 'tours/europe/britan.webp',
             gallery: [
-                '/tours/europe/britan.webp',
+                'tours/europe/britan.webp',
                 'https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1529655683826-aba9b3e77383?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?q=80&w=1000&auto=format&fit=crop',
@@ -402,7 +402,7 @@ const voyageData = [
         date: '08 – 15 OCTOBER',
         duration: '8 DAYS / 7 NIGHTS',
         price: '$2,200',
-        img: '/tours/europe/amsterdam.webp',
+        img: 'tours/europe/amsterdam.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d155958.83060241855!2d4.7638781!3d52.3547498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c63fb5949a7755%3A0x6600fd4cb7d0af8d!2sAmsterdam%2C%20Netherlands!5e0!3m2!1sru!2sua!4v1792068000000!5m2!1sru!2sua',
         overview: 'Glide through historic canals framed by 17th-century gabled houses, explore world-renowned art museums, and experience the charming autumn atmosphere of the Netherlands.',
         guide: {
@@ -413,9 +413,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/europe/amsterdam.webp',
+            main: 'tours/europe/amsterdam.webp',
             gallery: [
-                '/tours/europe/amsterdam.webp',
+                'tours/europe/amsterdam.webp',
                 'https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1584003564998-d6f87df01b04?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?q=80&w=1000&auto=format&fit=crop',
@@ -458,7 +458,7 @@ const voyageData = [
         date: '10 – 18 JUNE',
         duration: '9 DAYS / 8 NIGHTS',
         price: '$2,600',
-        img: '/tours/europe/paris-france.webp',
+        img: 'tours/europe/paris-france.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d166885.38575003662!2d2.2725227!3d48.8588377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e1f06e2b70f%3A0x40b82c3688c9460!2sParis%2C%20France!5e0!3m2!1sru!2sua!4v1792069000000!5m2!1sru!2sua',
         overview: 'Experience the romantic charm of Paris before heading south to the sun-drenched coast of the French Riviera. Discover iconic art, world-class gastronomy, and glamorous Mediterranean vistas.',
         guide: {
@@ -469,9 +469,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/europe/paris-france.webp',
+            main: 'tours/europe/paris-france.webp',
             gallery: [
-                '/tours/europe/paris-france.webp',
+                'tours/europe/paris-france.webp',
                 'https://images.unsplash.com/photo-1502602898657-3e91760cbb34?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1499856871958-5b9627545d1a?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1502602898657-3e91760cbb34?q=80&w=1000&auto=format&fit=crop',
@@ -514,7 +514,7 @@ const voyageData = [
         date: '12 – 19 MAY',
         duration: '8 DAYS / 7 NIGHTS',
         price: '$2,150',
-        img: '/tours/asia/great-wall.webp',
+        img: 'tours/asia/great-wall.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3039.068923485123!2d116.5703749!3d40.4319077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35f121d120a169b7%3A0x89e023772242095f!2sGreat%20Wall%20of%20China!5e0!3m2!1sru!2sua!4v1792070000000!5m2!1sru!2sua',
         overview: 'Trek along ancient mountain ridges and marvel at one of humanity’s greatest architectural feats. Experience China’s rich imperial heritage, vibrant culture, and stunning landscapes.',
         guide: {
@@ -525,9 +525,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/asia/great-wall.webp',
+            main: 'tours/asia/great-wall.webp',
             gallery: [
-                '/tours/asia/great-wall.webp',
+                'tours/asia/great-wall.webp',
                 'https://images.unsplash.com/photo-1508804185872-d7badad00f7d?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1508804185872-d7badad00f7d?q=80&w=1000&auto=format&fit=crop',
@@ -570,7 +570,7 @@ const voyageData = [
         date: '14 – 21 AUGUST',
         duration: '8 DAYS / 7 NIGHTS',
         price: '$1,850',
-        img: '/tours/asia/Petronas-Towers.webp',
+        img: 'tours/asia/Petronas-Towers.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.8055611311025!2d101.7119753!3d3.1578843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc37d3129598a1%3A0x729d7223b24f5a34!2sPetronas%20Twin%20Towers!5e0!3m2!1sru!2sua!4v1792071000000!5m2!1sru!2sua',
         overview: 'Discover the vibrant heart of Malaysia, where futuristic skyscrapers stand alongside historic temples and lush tropical parks. Enjoy panoramic city views and world-renowned street food.',
         guide: {
@@ -581,9 +581,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/asia/Petronas-Towers.webp',
+            main: 'tours/asia/Petronas-Towers.webp',
             gallery: [
-                '/tours/asia/Petronas-Towers.webp',
+                'tours/asia/Petronas-Towers.webp',
                 'https://images.unsplash.com/photo-1596422846543-75c6fc197f07?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1596422846543-75c6fc197f07?q=80&w=1000&auto=format&fit=crop',
@@ -627,7 +627,7 @@ const voyageData = [
         date: '04 – 12 APRIL',
         duration: '9 DAYS / 8 NIGHTS',
         price: '$2,800',
-        img: '/tours/asia/tokyo.webp',
+        img: 'tours/asia/tokyo.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.828030580824!2d139.6917064!3d35.6894875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b857628235d%3A0x440b522072c663c1!2sTokyo%2C%20Japan!5e0!3m2!1sru!2sua!4v1792072000000!5m2!1sru!2sua',
         overview: 'Immerse yourself in Japan’s ultra-modern capital during cherry blossom season. Experience cutting-edge neon districts, ancient Shinto shrines, culinary delights, and bullet train journeys.',
         guide: {
@@ -638,9 +638,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/asia/tokyo.webp',
+            main: 'tours/asia/tokyo.webp',
             gallery: [
-                '/tours/asia/tokyo.webp',
+                'tours/asia/tokyo.webp',
                 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?q=80&w=1000&auto=format&fit=crop',
@@ -684,7 +684,7 @@ const voyageData = [
         date: '10 – 20 JANUARY',
         duration: '11 DAYS / 10 NIGHTS',
         price: '$5,800',
-        img: '/tours/antarctica/Kayaking-in-Antarctica.webp',
+        img: 'tours/antarctica/Kayaking-in-Antarctica.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15654321.442!2d-65.0!3d-75.0!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xb9e7e123456789!2z0JDQvdGC0LDQutC40LrKtNC40LosINCg0LXRgdC_0YPRgNC10L3QuA!5e0!3m2!1sru!2sua!4v1792073000000!5m2!1sru!2sua',
         overview: 'Paddle through calm icy waters, gliding right past massive icebergs and curious seals. Experience the raw grandeur of the polar wilderness from a unique sea kayak perspective.',
         guide: {
@@ -695,9 +695,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/antarctica/Kayaking-in-Antarctica.webp',
+            main: 'tours/antarctica/Kayaking-in-Antarctica.webp',
             gallery: [
-                '/tours/antarctica/Kayaking-in-Antarctica.webp',
+                'tours/antarctica/Kayaking-in-Antarctica.webp',
                 'https://images.unsplash.com/photo-1517520287167-4bbf64a00d66?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1517520287167-4bbf64a00d66?q=80&w=1000&auto=format&fit=crop',
@@ -741,7 +741,7 @@ const voyageData = [
         date: '02 – 10 SEPTEMBER',
         duration: '9 DAYS / 8 NIGHTS',
         price: '$2,500',
-        img: '/tours/europe/Santorini-Greece.webp',
+        img: 'tours/europe/Santorini-Greece.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102370.83515468783!2d25.3524951!3d36.3931562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1499ce86ad3022f5%3A0x400bd2f322080a0!2sSantorini!5e0!3m2!1sru!2sua!4v1792075000000!5m2!1sru!2sua',
         overview: 'Discover whitewashed villages perched on dramatic volcanic cliffs overlooking the azure Aegean Sea. Sail past volcanic islands, sample rich Greek wines, and witness famous Oia sunsets.',
         guide: {
@@ -752,9 +752,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/europe/Santorini-Greece.webp',
+            main: 'tours/europe/Santorini-Greece.webp',
             gallery: [
-                '/tours/europe/Santorini-Greece.webp',
+                'tours/europe/Santorini-Greece.webp',
                 'https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?q=80&w=1000&auto=format&fit=crop',
@@ -798,7 +798,7 @@ const voyageData = [
         date: '05 – 14 NOVEMBER',
         duration: '10 DAYS / 9 NIGHTS',
         price: '$1,750',
-        img: '/tours/asia/bali.webp',
+        img: 'tours/asia/bali.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1010207.2403328107!2d114.7088921!3d-8.4552882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb10b2d6228!2sBali%2C%20Indonesia!5e0!3m2!1sru!2sua!4v1792076000000!5m2!1sru!2sua',
         overview: 'Explore lush rice terraces, sacred island temples, and dramatic coastal cliffs. Dive into tropical turquoise waters, discover hidden waterfalls, and experience the rich cultural heart of Indonesia.',
         guide: {
@@ -809,9 +809,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/asia/bali.webp',
+            main: 'tours/asia/bali.webp',
             gallery: [
-                '/tours/asia/bali.webp',
+                'tours/asia/bali.webp',
                 'https://images.unsplash.com/photo-1537996194471-e657df975ab4?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1537996194471-e657df975ab4?q=80&w=1000&auto=format&fit=crop',
@@ -855,7 +855,7 @@ const voyageData = [
         date: '12 – 20 OCTOBER',
         duration: '9 DAYS / 8 NIGHTS',
         price: '$2,350',
-        img: '/tours/usa/grand-canyon.webp',
+        img: 'tours/usa/grand-canyon.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d418190.2312658826!2d-112.4276081!3d36.0544445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80cc0654bd15e687%3A0xbe1f736021d720d2!2sGrand%20Canyon%20National%20Park!5e0!3m2!1sru!2sua!4v1792077000000!5m2!1sru!2sua',
         overview: 'Journey through the most dramatic red rock landscapes of the American Southwest. Hike carved sandstone canyons, stand on majestic canyon rims, and witness epic desert sunsets.',
         guide: {
@@ -866,9 +866,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/usa/grand-canyon.webp',
+            main: 'tours/usa/grand-canyon.webp',
             gallery: [
-                '/tours/usa/grand-canyon.webp',
+                'tours/usa/grand-canyon.webp',
                 'https://images.unsplash.com/photo-1474044159687-1ee9f3a51722?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1508873696983-2df515122519?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1474044159687-1ee9f3a51722?q=80&w=1000&auto=format&fit=crop',
@@ -912,7 +912,7 @@ const voyageData = [
         date: '14 – 26 FEBRUARY',
         duration: '13 DAYS / 12 NIGHTS',
         price: '$6,200',
-        img: '/tours/antarctica/ice-cruise.webp',
+        img: 'tours/antarctica/ice-cruise.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15654321.442!2d-65.0!3d-75.0!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xb9e7e123456789!2z0JDQvdGC0LDQutC40LrKtNC40LosINCg0LXRgdC_0YPRgNC10L3QuA!5e0!3m2!1sru!2sua!4v1792080000000!5m2!1sru!2sua',
         overview: 'Embark on the ultimate expedition into the frozen frontier. Navigate massive ice shelves on an icebreaker cruise, spot humpback whales, and encounter vast colonies of Emperor penguins.',
         guide: {
@@ -923,9 +923,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/antarctica/ice-cruise.webp',
+            main: 'tours/antarctica/ice-cruise.webp',
             gallery: [
-                '/tours/antarctica/ice-cruise.webp',
+                'tours/antarctica/ice-cruise.webp',
                 'https://images.unsplash.com/photo-1517520287167-4bbf64a00d66?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1517520287167-4bbf64a00d66?q=80&w=1000&auto=format&fit=crop',
@@ -969,7 +969,7 @@ const voyageData = [
         date: '10 – 17 JANUARY',
         duration: '8 DAYS / 7 NIGHTS',
         price: '$2,200',
-        img: '/tours/usa/new-york.webp',
+        img: 'tours/usa/new-york.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387193.30596073366!2d-74.25986548248684!3d40.69766374859667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sru!2sua!4v1792081000000!5m2!1sru!2sua',
         overview: 'Experience the magic of New York City during wintertime. Ice skate under snow-covered Central Park, catch a hit Broadway show, and take in dazzling Manhattan skyline views.',
         guide: {
@@ -980,9 +980,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/usa/new-york.webp',
+            main: 'tours/usa/new-york.webp',
             gallery: [
-                '/tours/usa/new-york.webp',
+                'tours/usa/new-york.webp',
                 'https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1518391846015-55a9cc003b25?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?q=80&w=1000&auto=format&fit=crop',
@@ -1026,7 +1026,7 @@ const voyageData = [
         date: '12 – 19 JANUARY',
         duration: '8 DAYS / 7 NIGHTS',
         price: '$2,050',
-        img: '/tours/usa/miami.webp',
+        img: 'tours/usa/miami.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114964.53955916748!2d-80.25049097779749!3d25.782390733064366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9b0a20ec8c111%3A0xff96f271ddad4f65!2sMiami%2C%20FL%2C%20USA!5e0!3m2!1sru!2sua!4v1792082000000!5m2!1sru!2sua',
         overview: 'Soak up the winter sun along South Beach’s pastel Art Deco avenues. Explore vibrant street art in Wynwood, airboat through Everglades wilderness, and sail turquoise ocean waters.',
         guide: {
@@ -1037,9 +1037,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/usa/miami.webp',
+            main: 'tours/usa/miami.webp',
             gallery: [
-                '/tours/usa/miami.webp',
+                'tours/usa/miami.webp',
                 'https://images.unsplash.com/photo-1506966953602-c20cc11f75e3?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1514214246283-d427a95c5d2f?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1506966953602-c20cc11f75e3?q=80&w=1000&auto=format&fit=crop',
@@ -1083,7 +1083,7 @@ const voyageData = [
         date: '15 – 24 JANUARY',
         duration: '10 DAYS / 9 NIGHTS',
         price: '$3,100',
-        img: '/tours/usa/hawaii.webp',
+        img: 'tours/usa/hawaii.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.671448834958!2d-157.85833308511046!3d21.306944485834773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006ee62e7f9c73%3A0x7c4bf7f046a80c35!2sHonolulu%2C%20HI%2C%20USA!5e0!3m2!1sru!2sua!4v1792083000000!5m2!1sru!2sua',
         overview: 'Discover Pacific island paradise across Oahu and Maui. Hike volcanic craters, snorkel with sea turtles, relax on golden beaches, and experience authentic Hawaiian culture.',
         guide: {
@@ -1094,9 +1094,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/usa/hawaii.webp',
+            main: 'tours/usa/hawaii.webp',
             gallery: [
-                '/tours/usa/hawaii.webp',
+                'tours/usa/hawaii.webp',
                 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1542259009477-d625272157b7?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1000&auto=format&fit=crop',
@@ -1140,7 +1140,7 @@ const voyageData = [
         date: '20 – 27 JANUARY',
         duration: '8 DAYS / 7 NIGHTS',
         price: '$2,300',
-        img: '/tours/usa/san-francisco.webp',
+        img: 'tours/usa/san-francisco.webp',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100939.98555098494!2d-122.50764017997972!3d37.75781499544523!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80859a6d00690021%3A0x4a501367f076adff!2sSan%20Francisco%2C%20CA%2C%20USA!5e0!3m2!1sru!2sua!4v1792084000000!5m2!1sru!2sua',
         overview: 'Discover the iconic bay city of San Francisco and drive along dramatic California coastal Highway 1. Experience historic cable cars, iconic Golden Gate vistas, giant redwood forests, and seaside charm.',
         guide: {
@@ -1151,9 +1151,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/usa/san-francisco.webp',
+            main: 'tours/usa/san-francisco.webp',
             gallery: [
-                '/tours/usa/san-francisco.webp',
+                'tours/usa/san-francisco.webp',
                 'https://images.unsplash.com/photo-1501594907352-04cda38ebc29?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1449034446853-66c86144b0ad?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1501594907352-04cda38ebc29?q=80&w=1000&auto=format&fit=crop',
@@ -1197,7 +1197,7 @@ const voyageData = [
         date: '03 – 10 JANUARY',
         duration: '8 DAYS / 7 NIGHTS',
         price: '$1,900',
-        img: '/tours/usa/las-vegas.jpg',
+        img: 'tours/usa/las-vegas.jpg',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103217.75!2d-115.1398!3d36.1699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c8c43df0cb77c1%3A0x367f0b9868779c1!2sLas%20Vegas%2C%20NV%2C%20USA!5e0!3m2!1sru!2sua!4v1792087000000!5m2!1sru!2sua',
         overview: 'Experience the electric energy of the entertainment capital combined with raw natural desert wonder. Walk the illuminated Strip, see world-class shows, and explore nearby Red Rock Canyon.',
         guide: {
@@ -1208,9 +1208,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/usa/las-vegas.jpg',
+            main: 'tours/usa/las-vegas.jpg',
             gallery: [
-                '/tours/usa/las-vegas.jpg',
+                'tours/usa/las-vegas.jpg',
                 'https://images.unsplash.com/photo-1605833559746-6d16002d8cc6?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1581351721010-8cf859cb14a4?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1605833559746-6d16002d8cc6?q=80&w=1000&auto=format&fit=crop',
@@ -1254,7 +1254,7 @@ const voyageData = [
         date: '18 – 25 JANUARY',
         duration: '8 DAYS / 7 NIGHTS',
         price: '$2,400',
-        img: '/tours/usa/yellowstone.jpg',
+        img: 'tours/usa/yellowstone.jpg',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d287654.32!2d-110.5885!3d44.4280!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x534c5a!2sYellowstone%20National%20Park!5e0!3m2!1sru!2sua!4v1792088000000!5m2!1sru!2sua',
         overview: 'Explore Yellowstone National Park transformed into a snowy winter wonderland. Travel aboard specialized snowcoaches, witness steaming geysers surrounded by frost, and spot bison, wolves, and elk.',
         guide: {
@@ -1265,9 +1265,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/usa/yellowstone.jpg',
+            main: 'tours/usa/yellowstone.jpg',
             gallery: [
-                '/tours/usa/yellowstone.jpg',
+                'tours/usa/yellowstone.jpg',
                 'https://images.unsplash.com/photo-1541079998400-94e2241c2df5?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1508873696983-2df515122519?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1541079998400-94e2241c2df5?q=80&w=1000&auto=format&fit=crop',
@@ -1311,7 +1311,7 @@ const voyageData = [
         date: '05 – 12 FEBRUARY',
         duration: '8 DAYS / 7 NIGHTS',
         price: '$2,100',
-        img: '/tours/usa/miami.jpg',
+        img: 'tours/usa/miami.jpg',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114964.53!2d-80.25!3d25.78!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9b0a20ec8c111%3A0xff96f271ddad4f65!2sMiami%2C%20FL%2C%20USA!5e0!3m2!1sru!2sua!4v1792089000000!5m2!1sru!2sua',
         overview: 'Escape the winter chill with a tropical getaway to South Beach. Enjoy turquoise ocean waves, vibrant nightlife, world-class dining, and colorful Art Deco culture.',
         guide: {
@@ -1322,9 +1322,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/usa/miami.jpg',
+            main: 'tours/usa/miami.jpg',
             gallery: [
-                '/tours/usa/miami.jpg',
+                'tours/usa/miami.jpg',
                 'https://images.unsplash.com/photo-1506966953602-c20cc11f75e3?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1514214246283-d427a95c5d2f?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1506966953602-c20cc11f75e3?q=80&w=1000&auto=format&fit=crop',
@@ -1368,7 +1368,7 @@ const voyageData = [
         date: '10 – 17 FEBRUARY',
         duration: '8 DAYS / 7 NIGHTS',
         price: '$2,250',
-        img: '/tours/usa/orlando.jpg',
+        img: 'tours/usa/orlando.jpg',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112356.78!2d-81.3792!3d28.5383!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e773d8fecdbc77%3A0xac3b2063cad5f9ef!2sOrlando%2C%20FL%2C%20USA!5e0!3m2!1sru!2sua!4v1792090000000!5m2!1sru!2sua',
         overview: 'Dive into the world’s ultimate entertainment resort destination. Experience thrilling roller coasters, immersive movie worlds, futuristic space centers, and sunny Florida magic.',
         guide: {
@@ -1379,9 +1379,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/usa/orlando.jpg',
+            main: 'tours/usa/orlando.jpg',
             gallery: [
-                '/tours/usa/orlando.jpg',
+                'tours/usa/orlando.jpg',
                 'https://images.unsplash.com/photo-1597466765990-64ad1c35dafc?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1575517111478-7f6afd0973db?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1597466765990-64ad1c35dafc?q=80&w=1000&auto=format&fit=crop',
@@ -1425,7 +1425,7 @@ const voyageData = [
         date: '15 – 22 FEBRUARY',
         duration: '8 DAYS / 7 NIGHTS',
         price: '$2,150',
-        img: '/tours/usa/death-valley.jpg',
+        img: 'tours/usa/death-valley.jpg',
         mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d318234.56!2d-116.9325!3d36.5054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c71544a04d2bfd%3A0x67ee1c8d6727289b!2sDeath%20Valley%20National%20Park!5e0!3m2!1sru!2sua!4v1792091000000!5m2!1sru!2sua',
         overview: 'Explore a landscape of surreal extremes during comfortable winter temperatures. Walk salt flats below sea level, photograph rolling sand dunes, and gaze at dark night skies filled with stars.',
         guide: {
@@ -1436,9 +1436,9 @@ const voyageData = [
             photo: './guides-section/mary.webp'
         },
         images: {
-            main: '/tours/usa/death-valley.jpg',
+            main: 'tours/usa/death-valley.jpg',
             gallery: [
-                '/tours/usa/death-valley.jpg',
+                'tours/usa/death-valley.jpg',
                 'https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=1000&auto=format&fit=crop',
                 'https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?q=80&w=1000&auto=format&fit=crop',
